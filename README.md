@@ -4,7 +4,7 @@ Debajo estan los detalles básicos de una aplicación creada con React. Este es 
 
 ## Link
 
-La aplicación se puede visualizar en el siguiente [Link]()
+La aplicación se puede visualizar en el siguiente [Link](https://lmsport.netlify.app/)
 
 ## Instalación
 
